@@ -14,7 +14,6 @@
   </h1>
   
   <p align="center">
-   
     <a href="https://www.youtube.com/channel/UCwMUPIC4feul7-yckX6P0jw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
