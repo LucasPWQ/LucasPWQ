@@ -4,7 +4,7 @@
 - 🌱 Estudando S.I (Sistemas da Informação)
 - 💬 Estudando Ingles & Espanhol
 - 📫 Contate-me Lucas.Wieyra.gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
   
@@ -12,7 +12,6 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/lucas-vieira-749a81199/">Lucas Vieira 😃️</a>
   </h1>
-  
   <p align="center">
     <a href="https://www.youtube.com/channel/UCwMUPIC4feul7-yckX6P0jw?sub_confirmation=1" target="_blank">
       <img
@@ -24,7 +23,6 @@
       />
     </a>  
   </p>
-  
   <p align="center">
     Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
@@ -41,6 +39,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Power Bi" height="40" width="40" src="https://github.com/marclelijveld/Power-BI-Icons-Archived/blob/master/General%20Icons%20PNG/LogoBlack.png">
 </div><br>
 <div align="center">
   <a href="https://www.youtube.com/channel/UCwMUPIC4feul7-yckX6P0jw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
