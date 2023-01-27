@@ -34,7 +34,6 @@
 <div align="center">
   <a href="https://github.com/LucasPWQ">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasPWQ&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspwq&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -43,7 +42,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
-
 <div align="center">
   <a href="https://www.youtube.com/channel/UCwMUPIC4feul7-yckX6P0jw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lucas-vieira-749a81199/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
