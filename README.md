@@ -1,8 +1,8 @@
 ### Olá,Pessoal 👋
 
-- 🔭 Atualmente atuo em Logistica (Assistente Operacional)
-- 🌱 Estudando ADS (Analise e desenvolvimendo de sistemas)
-- 💬 Estudando Ingles
+- 🔭 Atualmente estou desempregado
+- 🌱 Estudando S.I (Sistemas da Informação)
+- 💬 Estudando Ingles & Espanhol
 - 📫 Contate-me Lucas.Wieyra.gmail.com
 - 😄 Pronouns: Ele/Dele
 
