@@ -19,7 +19,7 @@
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCwMUPIC4feul7-yckX6P0jw?label=iCode&style=social" 
+           src="https://img.shields.io/youtube/channel/subscribers/UCwMUPIC4feul7-yckX6P0jw?label=Lucas&style=social" 
            target="_blank" 
       />
     </a>  
